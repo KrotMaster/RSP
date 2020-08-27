@@ -29,6 +29,7 @@ print("How Many Times Do You Want To Play?")
 time.sleep(1)
 hmt = int(input("Write Here: "))
 while ft < hmt:
+    time.sleep(1)
     print(" ")
     print("It`s RSP The Game")
     if ft == 0:
